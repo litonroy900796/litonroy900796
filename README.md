@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://liton-chandra-portfolio.netlify.app/](https://liton-chandra-portfolio.netlify.app/)
+- 👨‍💻 [https://liton-chandra-portfolio.netlify.app/](https://liton-chandra-portfolio.netlify.app/)
 
 - 💬 **Hi , As a Font-End developer I am Liton Chandra Barman and.I love coding.I am an expert on JavaScript frameworks: React.JS, and Express.JS . I have strong knowledge of web architechure and frontend latest technology as react with good skill of HTML,CSS,Boostrap,Tailwind Css.I'm eagerly looking for a career in a creative organization where I can implement my skills as well as increase my IT skills in the software process.**
 
