@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Liton Chandra Barman</h1>
-<h3 align="center">Jounior Front-End Developer</h3>
+<h1 align="left">Hi 👋, I'm Liton Chandra Barman</h1>
+<h3 align="left">Jounior Front-End Developer</h3>
 
 - 🌱 I’m currently learning **Next js**
 
