@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 [https://liton-chandra-portfolio.netlify.app/](https://liton-chandra-portfolio.netlify.app/)
+- 👨‍💻 [https://liton-chandra-portfolio.netlify.app/](https://litonroy.netlify.app/)
 
 - 💬 **Frontend Developer & Web Designer with 3+ years of experience building responsive, user-friendly web applications.
 I specialize in React, Next.js, Redux, HTML, CSS, JavaScript, and Tailwind CSS. I also have strong experience in UI/UX design, translating Figma and Adobe XD designs into pixel-perfect, scalable, and high-performance web interfaces.**
