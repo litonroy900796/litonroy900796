@@ -1,110 +1,78 @@
 <div align="center">
 
-# Hi there, I'm Liton Chandra Barman 👋
+# Liton Chandra Barman
 
-### ⚡ Frontend Developer 
+### Frontend Developer  ·  React  ·  Next.js  ·  UI/UX
 
-<p>
-  <a href="https://litonroy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/liton-chandra-barman-67aa84241" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://fb.com/litonchandra20" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:coderlitonroy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://litonroy.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/litonchandra80/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:coderlitonroy@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/litonchandra20)
 
-<img src="https://komarev.com/ghpvc/?username=litonroy900796&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=litonroy900796&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## About me
 
-🎨 **Frontend Developer & Web Designer** with **3+ years of experience** crafting responsive, user-friendly web applications.
+Frontend Developer with **3+ years** of experience building scalable, high-performance web applications using React and Next.js. Proficient in state management, API integration, and component architecture to deliver complex, production-ready solutions. Also skilled in UI/UX design with Figma, ensuring pixel-perfect, responsive interfaces across all devices.
 
-- 🔭 I specialize in turning **Figma & Adobe XD** designs into pixel-perfect, scalable interfaces
-- 💡 Passionate about building **high-performance** web apps with clean, maintainable code
+- 🔭 Specialise in converting **Figma & Adobe XD** designs into clean, scalable interfaces
 - 🌱 Currently exploring **advanced animations** and **micro-interactions**
-- 🤝 Open to **freelance projects** and **collaboration opportunities**
-- 📫 Reach me at: **coderlitonroy@gmail.com**
-- 🌐 Portfolio: [litonroy.netlify.app](https://litonroy.netlify.app/)
+- 🤝 Open to **freelance projects** and **collaboration**
+- 📫 **coderlitonroy@gmail.com**  |  🌐 [litonroy.netlify.app](https://litonroy.netlify.app/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+**Languages & Core**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 💅 Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+**Frameworks & UI**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-### 🔧 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+**Tools & Libraries**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+
+**Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=litonroy900796&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litonroy900796&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=litonroy900796&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litonroy900796&layout=compact&langs_count=7&theme=default&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=litonroy900796&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=litonroy900796&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💼 What I Do
-
-| Area | Skills |
-|---|---|
-| 🖥️ **UI Development** | Responsive layouts, cross-browser compatibility, pixel-perfect implementation |
-| ⚛️ **React Ecosystem** | React, Next.js, Redux, React Router, Custom Hooks |
-| 🎨 **UI/UX Design** | Figma, Adobe XD, wireframing, prototyping |
-| ⚡ **Performance** | Lazy loading, code splitting, optimization |
-| 📱 **Responsive Design** | Mobile-first approach, Tailwind CSS, CSS Grid/Flexbox |
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Build Something Amazing!
-
-*"Good design is obvious. Great design is transparent."*
-
-⭐ **Feel free to star my repositories if you find them useful!**
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=litonroy900796&theme=default&hide_border=true" alt="GitHub Streak"/>
 </div>
