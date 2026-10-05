@@ -22,7 +22,7 @@ Frontend Developer with **3+ years** of experience building scalable, high-perfo
 - 🔭 Specialise in converting **Figma & Adobe XD** designs into clean, scalable interfaces
 - 🌱 Currently exploring **advanced animations** and **micro-interactions**
 - 🤝 Open to **freelance projects** and **collaboration**
-- 📫 **coderlitonroy@gmail.com**  |  🌐 [litonroy.netlify.app](https://litonroy.netlify.app/)
+- 📫 **coderlitonroy@gmail.com**  |  🌐 [litonroy.vercel.app](https://litonroy.vercel.app)
 
 ---
 
